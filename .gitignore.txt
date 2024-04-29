@@ -1,0 +1,2 @@
+*.txt  # Ignore all .txt files
+"Employee Salaries.txt"  # Ignore this specific file as well
